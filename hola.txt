@@ -1,1 +1,3 @@
 Hola, este es mi primer proyecto en GIT
+esta es la segunda linea que debo agregar al git
+Estoy usando VS Code con Git
